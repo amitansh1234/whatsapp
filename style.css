@@ -238,12 +238,13 @@
   
   .type-message-bar-center input {
     width: 100%;
-    outline: none;
-    border: none;
-    padding: 1rem 1rem 1rem 2rem;
+    /* outline: none; */
+    /* border: none; */
+    padding: 1rem 1rem 0.5rem 2rem;
     flex: 1;
     border-radius: 2rem;
     font-family: "Segoe UI";
+    margin-bottom: 0%;
   }
   
   .type-message-bar-center input::-webkit-input-placeholder {
